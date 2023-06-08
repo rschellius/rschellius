@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @rschellius
-- 👀 I’m interested in job offers of freelance projects
-- 💞️ Looking to collaborate on web applications using frontend frameworks like Angular, React or Vuejs, backend development using nodejs and JavaScript, Docker and CI/CD deployment systems.  
 - 📫 Reach me at robinschellius@gmail.com
 
 <!---
